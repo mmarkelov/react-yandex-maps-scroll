@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is example inspired by:
+
+- [Google](https://developers.google.com/maps/documentation/javascript/interaction)
+
+- [ymaps-touch-scroll](https://whooehoo.github.io/ymaps-touch-scroll/)
+
 ## Available Scripts
 
 In the project directory, you can run:
